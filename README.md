@@ -1,13 +1,13 @@
-### Welcome to My CIT Minor Portfolio on GitHub Pages!
+# Welcome to My CIT Minor Portfolio on GitHub Pages!
 
-# Lab 1 
+### Lab 1 
 Objective: 
 -bulleted Install necessary software tools
 -bulleted Practice using terminal commands
 -bulleted Practice Keyboard shortcuts
 -bulleted Create Node.js server-side JavaScript file
 
-# Lab 2 
+### Lab 2 
 Objective:
 -bulleted Use command line interface for directory and file manipulation
 -bulleted Use command line interface for git commands
@@ -18,7 +18,7 @@ Objective:
 -bulleted Gain experience working with Visual Studio Code
 -bulleted Gain experience writing and executing non-web server Node.js JavaScript code
 
-# Lab 3
+### Lab 3
 Objective:
 -bulleted Practice using refactoring Javascript code to use more modern syntax
 -bulleted Practice retrucruting an object
@@ -28,7 +28,7 @@ Objective:
 -bulleted Practice creating a Node.js compatible code module using require
 -bulleted Examine code using the spread operator
 
-# Lab 4
+### Lab 4
 Objective:
 -bulleted Initialized Fasity Node.js web server
 -bulleted Add Fastify to project using np, and test using Visual Studio Code
@@ -42,7 +42,7 @@ Objective:
 -bulleted Writing and eecuting non-web server Node.js JavaScript code
 -bulleted Pratice refactoring JavaScript code
 
-# Lab 5
+### Lab 5
 Objective:
 -bulleted Become familiar with Postman
 -bulleted Create a CIT 281 collection and folders
@@ -57,7 +57,7 @@ Objective:
 -bulleted Create "coinage" code module that is capable of calculating the total value of coin objects
 -bulleted Update "server" code file as a true NOde.js web server using the Fastify package.
 
-# Lab 6
+### Lab 6
 Objective:
 -bulleted Join GitHub and work through Intro to GitHub course
 -bulleted Create lab file
@@ -74,7 +74,7 @@ Objective:
 -bulleted Test code module code using porvided testing code
 -bulleted Create a Node.js REST API to handle the GET verb
 
-# Lab 7
+### Lab 7
 -bulleted Create your own GitHub organization for the CIT Minor
 -bulleted Create your first GitHub repository
 -bulleted Clone your GitHub repository to your local system
@@ -89,7 +89,7 @@ Objective:
 -bulleted A running game will drain each monster's life by a random amount until all monsters die
 -bulleted The game will include a delay before each life drain
 
-# Lab 8
+### Lab 8
 -bulleted Create lab file and initialize Node.js folder
 -bulleted Install node-fetch package
 -bulleted Add fastify starter code
@@ -104,7 +104,7 @@ Objective:
 -bulleted The base Shape class will provide the common functionality of a method that returns the perimeter value. 
 -bulleted Each of the other two classes will provide their own verions of a method that returns the area value
 
-# Lab 9 
+### Lab 9 
 Objective:
 -bulleted Create Learning Lab course/repo within your GitHub account
 -bulleted Practice exiting and returning to the course from course repo
