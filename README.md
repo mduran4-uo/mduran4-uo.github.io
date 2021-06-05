@@ -1,6 +1,6 @@
 # Welcome to My CIT Minor Portfolio on GitHub Pages!
 
-### Lab 1 
+### [Lab 1](https://github.com/mduran4-uo/cit281-lab1/blob/64c27d38741525371b858581158f933bf5853744/index.md)
 Objective:
 
 - Install necessary software tools
@@ -9,12 +9,12 @@ Objective:
 - Practice Keyboard shortcuts
 - Create Node.js server-side JavaScript file
 
-### Lab 2 
+### [Lab 2](https://github.com/mduran4-uo/cit281-lab2/blob/fce4f1fecae540d0e3d6cbfb2defbf028f0adfaa/index.md)
 Objective:
 - Use command line interface for directory and file manipulation
 - Use command line interface for git commands
 
-## Project 1
+## [Project 1](https://github.com/mduran4-uo/cit281-p1/blob/8e874de82c9c53d71a5aec54a9bff7fb72ba34df/index.md)
 Objective:
 - Gain experience accessing operating system's command line interface
 - Gain experience working with Visual Studio Code
