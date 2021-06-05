@@ -1,119 +1,121 @@
 # Welcome to My CIT Minor Portfolio on GitHub Pages!
 
 ### Lab 1 
-Objective: 
--bulleted Install necessary software tools
--bulleted Practice using terminal commands
--bulleted Practice Keyboard shortcuts
--bulleted Create Node.js server-side JavaScript file
+Objective:
+
+- Install necessary software tools
+
+- Practice using terminal commands
+- Practice Keyboard shortcuts
+- Create Node.js server-side JavaScript file
 
 ### Lab 2 
 Objective:
--bulleted Use command line interface for directory and file manipulation
--bulleted Use command line interface for git commands
+- Use command line interface for directory and file manipulation
+- Use command line interface for git commands
 
 ## Project 1
 Objective:
--bulleted Gain experience accessing operating system's command line interface
--bulleted Gain experience working with Visual Studio Code
--bulleted Gain experience writing and executing non-web server Node.js JavaScript code
+- Gain experience accessing operating system's command line interface
+- Gain experience working with Visual Studio Code
+- Gain experience writing and executing non-web server Node.js JavaScript code
 
 ### Lab 3
 Objective:
--bulleted Practice using refactoring Javascript code to use more modern syntax
--bulleted Practice retrucruting an object
--bulleted Practice converting normal functions into arrow function expressions
--bulleted Examine using for..in syntax with objects
--bulleted Practice using for..of syntax with arrays
--bulleted Practice creating a Node.js compatible code module using require
--bulleted Examine code using the spread operator
+- Practice using refactoring Javascript code to use more modern syntax
+- Practice retrucruting an object
+- Practice converting normal functions into arrow function expressions
+- Examine using for..in syntax with objects
+- Practice using for..of syntax with arrays
+- Practice creating a Node.js compatible code module using require
+- Examine code using the spread operator
 
 ### Lab 4
 Objective:
--bulleted Initialized Fasity Node.js web server
--bulleted Add Fastify to project using np, and test using Visual Studio Code
--bulleted Add git repo, exclude node_modules folder from git, make commits
--bulleted Fix MIME error, test and commit
--bulleted Add a second route with query parameters,test, and commit
+- Initialized Fasity Node.js web server
+- Add Fastify to project using np, and test using Visual Studio Code
+- Add git repo, exclude node_modules folder from git, make commits
+- Fix MIME error, test and commit
+- Add a second route with query parameters,test, and commit
 
 ## Project 2
 Objective: 
--bulleted Gain experience using git via CLI and VSC Source Control
--bulleted Writing and eecuting non-web server Node.js JavaScript code
--bulleted Pratice refactoring JavaScript code
+- Gain experience using git via CLI and VSC Source Control
+- Writing and eecuting non-web server Node.js JavaScript code
+- Pratice refactoring JavaScript code
 
 ### Lab 5
 Objective:
--bulleted Become familiar with Postman
--bulleted Create a CIT 281 collection and folders
--bulleted Create a Node.js and fastify server application with GER and respond with JSON
--bulleted Add array of students object
--bulleted Use Postman to test server GET routes
--bulleted Add POST handling to server application and respond with JSON
--bulleted Use Postman and POST request
+- Become familiar with Postman
+- Create a CIT 281 collection and folders
+- Create a Node.js and fastify server application with GER and respond with JSON
+- Add array of students object
+- Use Postman to test server GET routes
+- Add POST handling to server application and respond with JSON
+- Use Postman and POST request
 
 ## Project 3
 Objective:
--bulleted Create "coinage" code module that is capable of calculating the total value of coin objects
--bulleted Update "server" code file as a true NOde.js web server using the Fastify package.
+- Create "coinage" code module that is capable of calculating the total value of coin objects
+- Update "server" code file as a true NOde.js web server using the Fastify package.
 
 ### Lab 6
 Objective:
--bulleted Join GitHub and work through Intro to GitHub course
--bulleted Create lab file
--bulleted Classes overview
--bulleted Create and test Book class
--bulleted Create and test Library class
--bulleted Add at least two more books to the library
--bulleted Add ISBN and a delete book method
+- Join GitHub and work through Intro to GitHub course
+- Create lab file
+- Classes overview
+- Create and test Book class
+- Create and test Library class
+- Add at least two more books to the library
+- Add ISBN and a delete book method
 
 ## Project 4
 Objective:
--bulleted Create a REST API that works with a "data" source of questions and answers
--bulleted Create all of the code to work with the data source using a code module
--bulleted Test code module code using porvided testing code
--bulleted Create a Node.js REST API to handle the GET verb
+- Create a REST API that works with a "data" source of questions and answers
+- Create all of the code to work with the data source using a code module
+- Test code module code using porvided testing code
+- Create a Node.js REST API to handle the GET verb
 
 ### Lab 7
--bulleted Create your own GitHub organization for the CIT Minor
--bulleted Create your first GitHub repository
--bulleted Clone your GitHub repository to your local system
--bulleted Create lab JavaScript file, and initialize folder as a Node.js folder
--bulleted Update and commit lab JavaScript file to practice with error handling
--bulleted Push your changes to GitHub
+- Create your own GitHub organization for the CIT Minor
+- Create your first GitHub repository
+- Clone your GitHub repository to your local system
+- Create lab JavaScript file, and initialize folder as a Node.js folder
+- Update and commit lab JavaScript file to practice with error handling
+- Push your changes to GitHub
 
 ## Project 5
 Objective:
--bulleted Create a Monster Game program using classes
--bulleted Game will create monsters with iitial life calues, and minimum life values for the monster's life
--bulleted A running game will drain each monster's life by a random amount until all monsters die
--bulleted The game will include a delay before each life drain
+- Create a Monster Game program using classes
+- Game will create monsters with iitial life calues, and minimum life values for the monster's life
+- A running game will drain each monster's life by a random amount until all monsters die
+- The game will include a delay before each life drain
 
 ### Lab 8
--bulleted Create lab file and initialize Node.js folder
--bulleted Install node-fetch package
--bulleted Add fastify starter code
--bulleted Add fastify and node-fetch require statements
--bulleted Fetch JSONPlaceholder data
+- Create lab file and initialize Node.js folder
+- Install node-fetch package
+- Add fastify starter code
+- Add fastify and node-fetch require statements
+- Fetch JSONPlaceholder data
 
 ## Project 6
 Objective:
--bulleted Create three classes. First class is the Shape class that will serve as a base class for the other two classes.
--bulleted The second class is the Rectangle class that will inherit from Shape class.
--bulleted The third class is the Triangle class that will also inherit from the Shape class
--bulleted The base Shape class will provide the common functionality of a method that returns the perimeter value. 
--bulleted Each of the other two classes will provide their own verions of a method that returns the area value
+- Create three classes. First class is the Shape class that will serve as a base class for the other two classes.
+- The second class is the Rectangle class that will inherit from Shape class.
+- The third class is the Triangle class that will also inherit from the Shape class
+- The base Shape class will provide the common functionality of a method that returns the perimeter value. 
+- Each of the other two classes will provide their own verions of a method that returns the area value
 
 ### Lab 9 
 Objective:
--bulleted Create Learning Lab course/repo within your GitHub account
--bulleted Practice exiting and returning to the course from course repo
--bulleted Work through course
--bulleted Download completed course repo as deliverable
+- Create Learning Lab course/repo within your GitHub account
+- Practice exiting and returning to the course from course repo
+- Work through course
+- Download completed course repo as deliverable
 
 ## Project 7
 Objective:
--bulleted Make navigating this page as seamless as possible
+- Make navigating this page as seamless as possible
 
 You can use the [editor on GitHub](https://github.com/mduran4-uo/mduran4-uo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
